@@ -23,7 +23,7 @@ Install the package via `npm`:
 npm install @moralisweb3/analytics
 ```
 
-Import Moralis:
+Import Moralis Analytics:
 
 ```js
 import { Analytics } from '@moralisweb3/analytics';
