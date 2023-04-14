@@ -1,6 +1,6 @@
 {
   "name": "@moralisweb3/analytics",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "type": "module",
   "main": "dist/esm/index.js",
