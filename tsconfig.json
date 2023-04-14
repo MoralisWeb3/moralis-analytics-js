@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "ES2020",
+    "moduleResolution": "node",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2015",
+    "sourceMap": true,
+    "outDir": "./build",
+    "baseUrl": "./",
+    "incremental": true,
+    "skipLibCheck": true
+  }
+}
