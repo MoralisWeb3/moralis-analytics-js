@@ -1,6 +1,6 @@
 <div align="center">
     <a align="center" href="https://moralis.io" target="_blank">
-      <img src="https://github.com/MoralisWeb3/moralis-analytics-js/main/assets/moralis-logo.svg" alt="Moralis Analytics" height=200/>
+      <img src="https://raw.githubusercontent.com/MoralisWeb3/moralis-analytics-js/main/assets/moralis-logo.svg" alt="Moralis Analytics" height=200/>
     </a>
     <h1 align="center">Moralis Analytics JS</h1>
   <p>
