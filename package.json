@@ -1,6 +1,6 @@
 {
   "name": "@moralis/analytics",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "type": "module",
   "main": "dist/esm/index.js",
