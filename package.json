@@ -28,14 +28,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gabronickwontdiefromcovid.com/moralis/payments-squad/packages/billing-types.git"
+    "url": "https://github.com/MoralisWeb3/moralis-analytics-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gabronickwontdiefromcovid.com/moralis/payments-squad/packages/billing-types/issues"
+    "url": "https://github.com/MoralisWeb3/moralis-analytics-js/issues"
   },
-  "homepage": "https://gabronickwontdiefromcovid.com/moralis/payments-squad/packages/billing-types#readme",
+  "homepage": "https://github.com/MoralisWeb3/moralis-analytics-js#readme",
   "publishConfig": {
     "access": "public"
   },
