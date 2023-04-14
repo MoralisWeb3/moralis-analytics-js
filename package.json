@@ -20,7 +20,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "rollup -c",
+    "build": "tsc && rollup -c",
     "dev": "tsc --watch",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
