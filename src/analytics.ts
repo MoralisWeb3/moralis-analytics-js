@@ -9,9 +9,9 @@ export class Analytics {
 
   constructor(key: string, config?: AnalyticsConfig) {
     const baseURL =
-      config?.environment === 'production'
-        ? 'https://api.moralis.io'
-        : 'http://127.0.0.1:3000';
+      config?.environment !== 'production'
+        ? 'http://127.0.0.1:3000'
+        : 'https://analytics.moralis.io';
 
     this.axios = Axios.create({
       baseURL,
